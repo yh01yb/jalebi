@@ -19,7 +19,7 @@ This project allows users to extract `.zip` archives directly from the terminal 
 
 ## Tut
 
-### Output
+### Before vs After
 
 ![Before](images/before.png) ![After](images/after.png)
 
@@ -121,7 +121,7 @@ That means it can unzip archives containing:
 
 ---
 
-## 🧪 Development Notes
+## Development Notes
 
 * Multiple ZIP files can be extracted **one after another**
 * No need to run `cargo clean`
@@ -130,10 +130,5 @@ That means it can unzip archives containing:
 ---
 
 ## Author
-
-**aditya**
-🦀
----
-
-> *"Small, fast tools done right."* 🦀
+aditya🦀
 
